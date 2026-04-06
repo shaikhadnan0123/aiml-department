@@ -68,6 +68,6 @@ jobs:
               issue_number: prNumber,
               owner,
               repo,
-              body: "✅ Project marked as **Verified** by faculty. Forwarded for final merge."
+              body: "✅ Project marked as **Verified** by faculty. Forwarding for final merge to the maintainer @abdulvasay-234."
             });
             console.log("Confirmation comment posted.");
